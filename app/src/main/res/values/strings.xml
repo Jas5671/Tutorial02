@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">18FOTCA11029</string>
+    <string name="about_us">About Us</string>
+    <string name="enrollmentno">18FOTCA11029</string>
+    <string name="firstname">Jasmita</string>
+    <string name="lastname">Parmar</string>
+    <string name="email">jparmar474@rku.ac.in</string>
+    <string name="password">123456</string>
+    <string name="gender">Female</string>
+    <string name="city">Rajkot</string>
+</resources>
